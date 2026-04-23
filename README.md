@@ -1,13 +1,27 @@
-# 💫 About Me:
-Aspiring Full Stack Developer with strong skills in Java, Node.js, and modern web technologies.  <br>I love building scalable, real-time applications and have hands-on experience in AI-powered systems, cloud infrastructure, and blockchain development.  
-<br>
+# 💫 About Me
 
-🔭 I’m currently working on: AI-powered SaaS platforms with real-time chat & automation  
-<br>🤝 I’m looking to collaborate on: Full-stack projects, AI integrations, scalable backend systems  
-<br>🆘 I’m looking for help with: System design, cloud architecture, production scaling  
-<br>🌱 I’m currently learning: Java Backend (Spring Boot), Distributed Systems, Kubernetes, Advanced DSA  
-<br>💬 Ask me about: Full-stack development, Node.js, AI chat systems, and building SaaS products  
+Aspiring **Full Stack Developer** skilled in **Java, Node.js, and modern web technologies**.  
+I enjoy building **scalable, real-time applications** and have hands-on experience with  
+**AI-powered systems, cloud infrastructure, and blockchain development**.
 
+---
+
+### 🚀 What I'm Up To
+
+🔭 **Currently working on:**  
+AI-powered SaaS platforms with real-time chat & intelligent automation  
+
+🤝 **Looking to collaborate on:**  
+Full-stack projects, AI integrations, scalable backend systems  
+
+🆘 **Seeking help with:**  
+System design, cloud architecture, production-level scaling  
+
+🌱 **Currently learning:**  
+Java Backend (Spring Boot), Distributed Systems, Kubernetes, Advanced DSA  
+
+💬 **Ask me about:**  
+Full-stack development, Node.js, AI chat systems, and SaaS building  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharkumar1980) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakharkumar20032003@gmail.com) 
