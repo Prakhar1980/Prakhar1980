@@ -1,3 +1,4 @@
+# 💫 About Me
 Aspiring Full Stack Developer skilled in Java, Node.js, and modern web technologies.  
 Focused on building scalable, real-time applications with experience in AI systems, cloud, and blockchain.
 
