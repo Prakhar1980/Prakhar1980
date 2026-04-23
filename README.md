@@ -1,5 +1,12 @@
 # 💫 About Me:
-Aspiring Full Stack Developer with strong skills in Java, Node.js, and modern web technologies.  <br>I love building scalable, real-time applications and have hands-on experience in AI-powered systems, cloud infrastructure, and blockchain development.  <br>Passionate about problem-solving, system design, and continuous learning.<br><br>🔭 I’m currently working on: AI-powered SaaS platforms with real-time chat & automation  <br>🤝 I’m looking to collaborate on: Full-stack projects, AI integrations, scalable backend systems  <br>🆘 I’m looking for help with: System design, cloud architecture, production scaling  <br>🌱 I’m currently learning: Distributed systems, Kubernetes, advanced DSA  <br>💬 Ask me about: Full-stack dev, Node.js, AI chat systems, SaaS building  
+Aspiring Full Stack Developer with strong skills in Java, Node.js, and modern web technologies.  <br>I love building scalable, real-time applications and have hands-on experience in AI-powered systems, cloud infrastructure, and blockchain development.  
+<br>
+
+🔭 I’m currently working on: AI-powered SaaS platforms with real-time chat & automation  
+<br>🤝 I’m looking to collaborate on: Full-stack projects, AI integrations, scalable backend systems  
+<br>🆘 I’m looking for help with: System design, cloud architecture, production scaling  
+<br>🌱 I’m currently learning: Java Backend (Spring Boot), Distributed Systems, Kubernetes, Advanced DSA  
+<br>💬 Ask me about: Full-stack development, Node.js, AI chat systems, and building SaaS products  
 
 
 ## 🌐 Socials:
